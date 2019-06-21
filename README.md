@@ -1,0 +1,2 @@
+# hotel-booking
+origin master
